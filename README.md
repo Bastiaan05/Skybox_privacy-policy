@@ -34,7 +34,7 @@ Skybox cannot delete copies in device backups or files you exported to another a
 
 Publisher identity: Bastiaan van den Heuvel.
 
-Privacy/support contact: Bastiaan van den Heuvel.
+Privacy/support contact: bw05@xs4all.nl.
 
 Effective date (DD/MM/YYYY) and public policy URL: 13/09/2026, https://github.com/Bastiaan05/Skybox_privacy-policy.
 
