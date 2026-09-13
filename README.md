@@ -1,4 +1,4 @@
-#Skybox Privacy Policy
+# Skybox Privacy Policy
 
 ## Information on your device
 
