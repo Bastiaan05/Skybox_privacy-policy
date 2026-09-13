@@ -36,6 +36,6 @@ Publisher identity: Bastiaan van den Heuvel.
 
 Privacy/support contact: Bastiaan van den Heuvel.
 
-Effective date (DD/MM/YYYY) and public policy URL: 13/09/2026,  .
+Effective date (DD/MM/YYYY) and public policy URL: 13/09/2026,  https://Bastiaan05.github.io/Skybox_privacy-policy/.
 
 This policy will be updated before the introduction of features that change the described data flows.
