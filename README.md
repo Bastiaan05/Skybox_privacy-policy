@@ -30,6 +30,12 @@ Skybox retains minimal local provider request history across its reset actions s
 
 Skybox cannot delete copies in device backups or files you exported to another app. If you explicitly share a bundled source file, iOS sends it to the destination you select; Skybox does not automatically share your content.
 
+## Support email and crash information
+
+If you choose to email support, your message and return email address are used to help resolve your issue. Bastiaan van den Heuvel is the only person handling Skybox support. Support emails may be retained until the issue is resolved and are deleted within 30 days after resolution. No email or diagnostic attachment is sent automatically by Skybox.
+
+If you opt in to sharing diagnostics with app developers in iOS privacy settings, we may use reports Apple supplies solely to improve or fix Skybox. We do not use them to identify you or combine them with support emails or other information to identify you. Skybox includes no analytics or crash-reporting SDK. Apple's own collection and sharing are governed by [Apple's analytics privacy information](https://www.apple.com/legal/privacy/data/en/app-analytics/).
+
 ## Contact and changes
 
 Publisher identity: Bastiaan van den Heuvel.
